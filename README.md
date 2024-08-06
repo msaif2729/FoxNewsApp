@@ -70,9 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-
-db.items.updateOne({name:{$regex:/^M.*/},price:850},{$set:{price:890}})
-=======
-# FoxNewsApp
->>>>>>> 3aedecf042cb86c35e79cff1cdac84a6b876a7db
