@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 db.items.updateOne({name:{$regex:/^M.*/},price:850},{$set:{price:890}})
+=======
+# FoxNewsApp
+>>>>>>> 3aedecf042cb86c35e79cff1cdac84a6b876a7db
